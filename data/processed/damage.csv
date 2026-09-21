@@ -1,0 +1,36 @@
+category,metric,value,unit,area,notes
+Infrastructure,Houses destroyed,8317.0,houses,Nepal,"Around 8,317"
+Health,Health facilities destroyed,7.0,facilities,Nepal,Article damage section
+Culture,Cultural sites destroyed/damaged,30.0,sites,Nepal,Article reports 30 cultural sites
+Transport,Suspension bridges impacted,68.0,bridges,Nepal,Roads Department / damage assessment
+Transport,Driveable bridges impacted,41.0,bridges,Nepal,Article damage section
+Transport,Road damaged,69.0,km,Nepal,Article damage section
+Transport,Suspension bridges beyond repair,33.0,bridges,Nepal,Government assessment
+Agriculture,Agricultural land damaged,1806.0,ha,Nepal,Article damage section
+Food,Estimated reduction in food production,7686.0,tonnes,Nepal,NDRRMA estimate
+Water,Drinking-water pipeline washed away,4.5,km,Nepal,"Affected around 4,000 households"
+Water,Households affected by main pipeline damage,4000.0,households,Nepal,Article damage section
+Water,Other households affected by water utility damage,465.0,households,Nepal,Article damage section
+Monitoring,Flood monitoring stations destroyed,4.0,stations,Nepal,Article damage section
+Displacement,People displaced,3761.0,people,Nepal,"Rasuwa, Nuwakot and Dhading"
+Education,Schools destroyed,11.0,schools,Nepal,"Over 9,000 students impacted"
+Education,Schools damaged,7.0,schools,Nepal,"Over 9,000 students impacted"
+Commerce,Commercial establishments damaged,4800.0,establishments,Nepal,Approximate
+Telecom,Nepal Telecom towers affected,120.0,towers,Nepal,Article damage section
+Telecom,Ncell towers affected,78.0,towers,Nepal,Article damage section
+Energy,Hydropower projects damaged,13.0,projects,Nepal,NEA
+Energy,Generation capacity removed from grid,431.0,MW,Nepal,Estimated
+Energy,Under-construction project capacity damaged,470.0,MW,Nepal,Estimated
+Energy,Estimated hydroelectric damage,100000000000.0,NPR,Nepal,Approximate
+Energy,Solar power plants damaged,5.0,plants,Nepal,24 MW total capacity
+Energy,Solar capacity damaged,24.0,MW,Nepal,Article damage section
+Debris,Total debris generated,2200000.0,tonnes,Nepal,UNDP estimate
+Debris,Building debris,556200.0,tonnes,Nepal,UNDP estimate
+Flood dynamics,Estimated debris speed,190.0,km/h,Flood path,Around 52 m/s
+Flood dynamics,Debris flow distance,100.0,km,Downstream,Up to around 100 km
+Flood dynamics,Silt deposition,1.5,m,Main disaster zone,More than 1.5 m
+China,Buildings destroyed,27.0,buildings,Gyirong area,Article damage section
+China,Road damaged,5.0,km,Gyirong area,Road from Gyirong to Rasuwagadhi
+China,Trucks stranded,80.0,trucks,Gyirong,Article damage section
+China,Containers stranded,170.0,containers,Gyirong,Article damage section
+China,Estimated insurance damage,450000000.0,CNY,China,Insurance firms estimate

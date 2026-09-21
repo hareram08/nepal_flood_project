@@ -1,0 +1,118 @@
+source,table,geography,metric,value_text,value_num,unit,as_of_date,notes
+source_1,event_summary,Nepal-Tibet,Event,2026 Nepal-Tibet floods,,Not reported,,Wikipedia article provided by user
+source_1,event_summary,Nepal-Tibet,Start date,2026-08-26,,Not reported,,Article states 26 August 2026 - present
+source_1,event_summary,Nepal-Tibet,Primary affected countries/regions,"Nepal and Tibet Autonomous Region, China",,Not reported,,Article lead
+source_1,event_summary,Nepal-Tibet,Nepal districts affected,Rasuwa; Nuwakot; Dhading; Gorkha; Chitwan,,Not reported,,Article damage/warnings sections
+source_1,event_summary,Nepal-Tibet,Main river system,Trishuli River / Lhende Khola system,,Not reported,,Article background
+source_1,event_summary,Nepal-Tibet,Event type,Flash floods / debris flows,,Not reported,,Article lead
+source_1,event_summary,Nepal-Tibet,Suspected proximate cause,Glacier collapse / ice avalanche near Langtang Lirung,,Not reported,,Article says cause was under investigation in lead; later section says glacier collapse widely thought to be proximate cause
+source_1,event_summary,Nepal-Tibet,Deaths - Nepal,1410,1410.0,Not reported,,As of 2026-09-18
+source_1,event_summary,Nepal-Tibet,Injuries - Nepal,9287,9287.0,Not reported,,Article casualty section
+source_1,event_summary,Nepal-Tibet,Missing - Nepal,6145,6145.0,Not reported,,As of 2026-09-18
+source_1,event_summary,Nepal-Tibet,Deaths - Tibet/China,43,43.0,Not reported,,As of 2026-09-16
+source_1,event_summary,Nepal-Tibet,Missing - Tibet/China,519,519.0,Not reported,,As of 2026-09-16
+source_1,event_summary,Nepal-Tibet,Total deaths,1453,1453.0,Not reported,,Approximate; Nepal + China/Tibet
+source_1,event_summary,Nepal-Tibet,Total missing,6664,6664.0,Not reported,,Approximate; Nepal + China/Tibet
+source_1,event_summary,Nepal-Tibet,People affected in Nepal,1600000,1600000.0,Not reported,,Nearly 1.6 million; NDRRMA estimate
+source_1,event_summary,Nepal-Tibet,Houses destroyed in Nepal,8317,8317.0,Not reported,,Article damage section
+source_1,event_summary,Nepal-Tibet,Agricultural land damaged (ha),1806,1806.0,Not reported,,Article damage section
+source_1,event_summary,Nepal-Tibet,Estimated Nepal damage (NPR),400000000000,400000000000.0,Not reported,,Preliminary government estimate; over NPR 400 billion
+source_1,event_summary,Nepal-Tibet,Estimated China damage (CNY),450000000,450000000.0,Not reported,,Insurance firms estimate
+source_1,event_summary,Nepal-Tibet,Source URL,https://en.wikipedia.org/wiki/2026_Nepal%E2%80%93Tibet_floods,,Not reported,,Retrieved 2026-09-21
+source_1,chart_data,Nepal,deaths,1410,1410.0,people,,Wikipedia chart totals
+source_1,chart_data,Nepal,missing,6145,6145.0,people,,Wikipedia chart totals
+source_1,chart_data,Tibet/China,deaths,43,43.0,people,,Wikipedia chart totals
+source_1,chart_data,Tibet/China,missing,519,519.0,people,,Wikipedia chart totals
+source_1,chart_data,Combined,deaths,1453,1453.0,people,,Wikipedia chart totals
+source_1,chart_data,Combined,missing,6664,6664.0,people,,Wikipedia chart totals
+source_1,damage,Nepal,Houses destroyed,8317.0,8317.0,houses,,"Around 8,317"
+source_1,damage,Nepal,Health facilities destroyed,7.0,7.0,facilities,,Article damage section
+source_1,damage,Nepal,Cultural sites destroyed/damaged,30.0,30.0,sites,,Article reports 30 cultural sites
+source_1,damage,Nepal,Suspension bridges impacted,68.0,68.0,bridges,,Roads Department / damage assessment
+source_1,damage,Nepal,Driveable bridges impacted,41.0,41.0,bridges,,Article damage section
+source_1,damage,Nepal,Road damaged,69.0,69.0,km,,Article damage section
+source_1,damage,Nepal,Suspension bridges beyond repair,33.0,33.0,bridges,,Government assessment
+source_1,damage,Nepal,Agricultural land damaged,1806.0,1806.0,ha,,Article damage section
+source_1,damage,Nepal,Estimated reduction in food production,7686.0,7686.0,tonnes,,NDRRMA estimate
+source_1,damage,Nepal,Drinking-water pipeline washed away,4.5,4.5,km,,"Affected around 4,000 households"
+source_1,damage,Nepal,Households affected by main pipeline damage,4000.0,4000.0,households,,Article damage section
+source_1,damage,Nepal,Other households affected by water utility damage,465.0,465.0,households,,Article damage section
+source_1,damage,Nepal,Flood monitoring stations destroyed,4.0,4.0,stations,,Article damage section
+source_1,damage,Nepal,People displaced,3761.0,3761.0,people,,"Rasuwa, Nuwakot and Dhading"
+source_1,damage,Nepal,Schools destroyed,11.0,11.0,schools,,"Over 9,000 students impacted"
+source_1,damage,Nepal,Schools damaged,7.0,7.0,schools,,"Over 9,000 students impacted"
+source_1,damage,Nepal,Commercial establishments damaged,4800.0,4800.0,establishments,,Approximate
+source_1,damage,Nepal,Nepal Telecom towers affected,120.0,120.0,towers,,Article damage section
+source_1,damage,Nepal,Ncell towers affected,78.0,78.0,towers,,Article damage section
+source_1,damage,Nepal,Hydropower projects damaged,13.0,13.0,projects,,NEA
+source_1,damage,Nepal,Generation capacity removed from grid,431.0,431.0,MW,,Estimated
+source_1,damage,Nepal,Under-construction project capacity damaged,470.0,470.0,MW,,Estimated
+source_1,damage,Nepal,Estimated hydroelectric damage,100000000000.0,100000000000.0,NPR,,Approximate
+source_1,damage,Nepal,Solar power plants damaged,5.0,5.0,plants,,24 MW total capacity
+source_1,damage,Nepal,Solar capacity damaged,24.0,24.0,MW,,Article damage section
+source_1,damage,Nepal,Total debris generated,2200000.0,2200000.0,tonnes,,UNDP estimate
+source_1,damage,Nepal,Building debris,556200.0,556200.0,tonnes,,UNDP estimate
+source_1,damage,Flood path,Estimated debris speed,190.0,190.0,km/h,,Around 52 m/s
+source_1,damage,Downstream,Debris flow distance,100.0,100.0,km,,Up to around 100 km
+source_1,damage,Main disaster zone,Silt deposition,1.5,1.5,m,,More than 1.5 m
+source_1,damage,Gyirong area,Buildings destroyed,27.0,27.0,buildings,,Article damage section
+source_1,damage,Gyirong area,Road damaged,5.0,5.0,km,,Road from Gyirong to Rasuwagadhi
+source_1,damage,Gyirong,Trucks stranded,80.0,80.0,trucks,,Article damage section
+source_1,damage,Gyirong,Containers stranded,170.0,170.0,containers,,Article damage section
+source_1,damage,China,Estimated insurance damage,450000000.0,450000000.0,CNY,,Insurance firms estimate
+source_2,national_snapshot,Nepal,Event_name,Lhende-Bhotekoshi-Trishuli flash flood / debris flow,,Not reported,2026-08-26,NDRRMA / IOM Flash Appeal
+source_2,national_snapshot,Nepal,Country,Nepal,,Not reported,2026-08-26,NDRRMA
+source_2,national_snapshot,Nepal,Event_start_datetime,2026-08-26 09:00 NPT,,Not reported,2026-08-26,ReliefWeb SitRep / IOM
+source_2,national_snapshot,Nepal,Entry_point,"Rasuwagadhi / Timure, Rasuwa (from Tibet / TAR, China)",,Not reported,2026-08-26,NDRRMA / ReliefWeb
+source_2,national_snapshot,Nepal,River_system,Bhote Koshi - Trishuli - Narayani,,Not reported,2026-08-26,NDRRMA
+source_2,national_snapshot,Nepal,Trigger_status,Under investigation: ice-rock avalanche / debris flow in upper Lhende catchment; GLOF or other hydrological event not yet confirmed,,Not reported,2026-09-13,The Hindu / IOM / ReliefWeb
+source_2,national_snapshot,Nepal,Deaths_confirmed_recovered,1451,1451.0,people,2026-09-20,"Nepal Police / NDRRMA (ANI, The Hindu 20-21 Sep 2026)"
+source_2,national_snapshot,Nepal,Missing_NDRRMA,5786,5786.0,people,2026-09-20,"NDRRMA (as of 19:00, 20 Sep 2026)"
+source_2,national_snapshot,Nepal,Missing_foreign_nationals_NDRRMA,636,636.0,people,2026-09-20,NDRRMA
+source_2,national_snapshot,Nepal,Missing_Nepal_Police_estimate,6000,6000.0,people (approx.),2026-09-20,Nepal Police / The Hindu
+source_2,national_snapshot,Nepal,Rescued,13784,13784.0,people,2026-09-20,NDRRMA / Nepal Police
+source_2,national_snapshot,Nepal,Hospitalized_current,15,15.0,people,2026-09-20,NDRRMA (5 hospitals)
+source_2,national_snapshot,Nepal,Medical_treatment_by_security_forces,10163,10163.0,people,2026-09-20,NDRRMA
+source_2,national_snapshot,Nepal,Army_helicopter_sorties_reported,33,33.0,helicopters used,2026-09-20,NDRRMA
+source_2,national_snapshot,Nepal,People_affected_IOM_planning,84270,84270.0,people,2026-09-07,"IOM Flash Appeal (17 municipalities, 6 districts)"
+source_2,national_snapshot,Nepal,Households_affected_IOM_planning,19284,19284.0,households,2026-09-07,IOM Flash Appeal
+source_2,national_snapshot,Nepal,People_directly_exposed_census_est,109700,109700.0,people,2026-08-31,NDRRMA census-based exposure (excludes temporary workers/migrants)
+source_2,national_snapshot,Nepal,Households_directly_exposed_census_est,26754,26754.0,households,2026-08-31,"NDRRMA (49 wards, 5 districts)"
+source_2,national_snapshot,Nepal,People_affected_RDNA,32963,32963.0,people,2026-09-13,RDNA: NDRRMA + NSO + ministries (Rising Nepal / OnlineKhabar)
+source_2,national_snapshot,Nepal,Households_affected_RDNA,8317,8317.0,households,2026-09-13,RDNA
+source_2,national_snapshot,Nepal,Houses_damaged_RDNA,7570,7570.0,buildings,2026-09-13,RDNA / OnlineKhabar
+source_2,national_snapshot,Nepal,Shelter_caseload_IOM,8692,8692.0,households,2026-09-07,IOM (NDRRMA initial assessment)
+source_2,national_snapshot,Nepal,Displaced_in_sites_SitRep3,3629,3629.0,people,2026-09-10,"Plan International SitRep 3 (37 sites: Nuwakot, Rasuwa, Dhading, Kathmandu)"
+source_2,national_snapshot,Nepal,Displacement_sites_SitRep3,37,37.0,sites,2026-09-10,Plan International SitRep 3
+source_2,national_snapshot,Nepal,Children_affected_SitRep3,22100,22100.0,children,2026-09-10,Plan International SitRep 3
+source_2,national_snapshot,Nepal,Women_affected_SitRep3,43085,43085.0,women,2026-09-10,Plan International SitRep 3
+source_2,national_snapshot,Nepal,Women_reproductive_age_SitRep3,23787,23787.0,women,2026-09-10,Plan International SitRep 3
+source_2,national_snapshot,Nepal,Pregnant_women_SitRep3,1685,1685.0,women,2026-09-10,Plan International SitRep 3
+source_2,national_snapshot,Nepal,Persons_with_disabilities_SitRep3,1854,1854.0,people,2026-09-10,Plan International SitRep 3
+source_2,national_snapshot,Nepal,Infrastructure_loss_estimate_NPR_billion,200,200.0,NPR billion,2026-09-07,IOM Flash Appeal (preliminary national estimate)
+source_2,national_snapshot,Nepal,Infrastructure_loss_estimate_USD_billion,1.3,1.3,USD billion,2026-09-07,IOM Flash Appeal
+source_2,national_snapshot,Nepal,Road_damaged_example,42 km Betrawati-Rasuwagadhi road damaged,,Not reported,2026-09-07,IOM Flash Appeal
+source_2,national_snapshot,Nepal,China_TAR_deaths_reported,43,43.0,people,2026-09-20,The Hindu citing Chinese media (not Nepal official)
+source_2,national_snapshot,Nepal,China_TAR_missing_reported,500,500.0,people (more than),2026-09-20,The Hindu citing Chinese media
+source_2,national_snapshot,Nepal,Housing_livelihood_grant_NPR,"NPR 15,000/month per family (up to 4 members) + NPR 2,000 per extra member, max 6 months",,Not reported,2026-09-20,NDRRMA
+source_2,national_snapshot,Nepal,Data_status,"Provisional - search, identification and damage assessment ongoing",,Not reported,2026-09-21,Compiled for POC
+source_3,event_key_values,General,Event Name | General,2026 Nepal-Tibet Floods,,Not reported,,Wikipedia & ReliefWeb
+source_3,event_key_values,General,Date | General,26 August 2026 - present,,Not reported,,Wikipedia & ReliefWeb
+source_3,event_key_values,Nepal,Location | Nepal,"Rasuwa, Nuwakot, Dhading, Gorkha, Chitwan districts (Bagmati Province)",,Not reported,,Wikipedia & ReliefWeb
+source_3,event_key_values,China (Tibet),Location | China (Tibet),"Gyirong County, Tibet Autonomous Region",,Not reported,,Wikipedia & ReliefWeb
+source_3,event_key_values,General,Event Type | General,"Flash floods, debris flows, ice avalanche / glacier collapse",,Not reported,,Wikipedia & ReliefWeb
+source_3,event_key_values,General,Cause | General,"Glacier collapse on Langtang Lirung (generated Ms 5.2 seismic signal, not a tectonic earthquake)",,Not reported,,Wikipedia & ReliefWeb
+source_3,event_key_values,Nepal,Deaths | Nepal,1410+ (as of mid-September 2026),,Not reported,,Wikipedia
+source_3,event_key_values,China (Tibet),Deaths | China (Tibet),43+,,Not reported,,Wikipedia
+source_3,event_key_values,Nepal,Injured | Nepal,9287+,,Not reported,,Wikipedia
+source_3,event_key_values,Nepal,Missing | Nepal,6145+ (including 607 foreign nationals from 34 countries),,Not reported,,Wikipedia
+source_3,event_key_values,China (Tibet),Missing | China (Tibet),519+ (including 261 foreign nationals from 23 countries),,Not reported,,Wikipedia
+source_3,event_key_values,Nepal,Total Affected Population | Nepal,~1.6 million people,,Not reported,,Wikipedia
+source_3,event_key_values,Nepal,Property Damage | Nepal,NPR 400 billion+ (US$ 2.64 billion+),,Not reported,,Wikipedia
+source_3,event_key_values,China (Tibet),Property Damage | China (Tibet),CN¥ 450 million+ (US$ 67.08 million+),,Not reported,,Wikipedia
+source_3,event_key_values,Roads & Borders,Infrastructure Damage | Roads & Borders,42-km road to Rasuwagadhi border crossing destroyed; Gyirong Port border crossing destroyed,,Not reported,,Wikipedia & ReliefWeb
+source_3,event_key_values,Energy,Infrastructure Damage | Energy,"14 hydropower projects damaged (combined capacity ~748 MW, including 9 operational and 5 under construction)",,Not reported,,ReliefWeb
+source_3,event_key_values,Other,Infrastructure Damage | Other,9 commercial bank branches swept away; customs office in Timure lost contact with 15 employees,,Not reported,,ReliefWeb
+source_3,event_key_values,Domestic,Response Efforts | Domestic,"Mobilization of Nepali Army, Armed Police Force, and Nepal Police; free medical treatment and financial assistance ordered by Cabinet",,Not reported,,Wikipedia & ReliefWeb
+source_3,event_key_values,International,Response Efforts | International,"Aid and rescue support from China, India, Bangladesh, Canada, France, Ireland, Japan, South Korea, UAE, UK, US, and others",,Not reported,,Wikipedia
+source_3,event_key_values,Rescue Operations,Response Efforts | Rescue Operations,"Helicopter evacuations, controlled explosions at hydropower tunnels to rescue trapped workers, DNA testing for victim identification",,Not reported,,Wikipedia

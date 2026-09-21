@@ -1,0 +1,37 @@
+indicator,value,unit,as_of_date,source
+Event_name,Lhende-Bhotekoshi-Trishuli flash flood / debris flow,Not reported,2026-08-26,NDRRMA / IOM Flash Appeal
+Country,Nepal,Not reported,2026-08-26,NDRRMA
+Event_start_datetime,2026-08-26 09:00 NPT,Not reported,2026-08-26,ReliefWeb SitRep / IOM
+Entry_point,"Rasuwagadhi / Timure, Rasuwa (from Tibet / TAR, China)",Not reported,2026-08-26,NDRRMA / ReliefWeb
+River_system,Bhote Koshi - Trishuli - Narayani,Not reported,2026-08-26,NDRRMA
+Trigger_status,Under investigation: ice-rock avalanche / debris flow in upper Lhende catchment; GLOF or other hydrological event not yet confirmed,Not reported,2026-09-13,The Hindu / IOM / ReliefWeb
+Deaths_confirmed_recovered,1451,people,2026-09-20,"Nepal Police / NDRRMA (ANI, The Hindu 20-21 Sep 2026)"
+Missing_NDRRMA,5786,people,2026-09-20,"NDRRMA (as of 19:00, 20 Sep 2026)"
+Missing_foreign_nationals_NDRRMA,636,people,2026-09-20,NDRRMA
+Missing_Nepal_Police_estimate,6000,people (approx.),2026-09-20,Nepal Police / The Hindu
+Rescued,13784,people,2026-09-20,NDRRMA / Nepal Police
+Hospitalized_current,15,people,2026-09-20,NDRRMA (5 hospitals)
+Medical_treatment_by_security_forces,10163,people,2026-09-20,NDRRMA
+Army_helicopter_sorties_reported,33,helicopters used,2026-09-20,NDRRMA
+People_affected_IOM_planning,84270,people,2026-09-07,"IOM Flash Appeal (17 municipalities, 6 districts)"
+Households_affected_IOM_planning,19284,households,2026-09-07,IOM Flash Appeal
+People_directly_exposed_census_est,109700,people,2026-08-31,NDRRMA census-based exposure (excludes temporary workers/migrants)
+Households_directly_exposed_census_est,26754,households,2026-08-31,"NDRRMA (49 wards, 5 districts)"
+People_affected_RDNA,32963,people,2026-09-13,RDNA: NDRRMA + NSO + ministries (Rising Nepal / OnlineKhabar)
+Households_affected_RDNA,8317,households,2026-09-13,RDNA
+Houses_damaged_RDNA,7570,buildings,2026-09-13,RDNA / OnlineKhabar
+Shelter_caseload_IOM,8692,households,2026-09-07,IOM (NDRRMA initial assessment)
+Displaced_in_sites_SitRep3,3629,people,2026-09-10,"Plan International SitRep 3 (37 sites: Nuwakot, Rasuwa, Dhading, Kathmandu)"
+Displacement_sites_SitRep3,37,sites,2026-09-10,Plan International SitRep 3
+Children_affected_SitRep3,22100,children,2026-09-10,Plan International SitRep 3
+Women_affected_SitRep3,43085,women,2026-09-10,Plan International SitRep 3
+Women_reproductive_age_SitRep3,23787,women,2026-09-10,Plan International SitRep 3
+Pregnant_women_SitRep3,1685,women,2026-09-10,Plan International SitRep 3
+Persons_with_disabilities_SitRep3,1854,people,2026-09-10,Plan International SitRep 3
+Infrastructure_loss_estimate_NPR_billion,200,NPR billion,2026-09-07,IOM Flash Appeal (preliminary national estimate)
+Infrastructure_loss_estimate_USD_billion,1.3,USD billion,2026-09-07,IOM Flash Appeal
+Road_damaged_example,42 km Betrawati-Rasuwagadhi road damaged,Not reported,2026-09-07,IOM Flash Appeal
+China_TAR_deaths_reported,43,people,2026-09-20,The Hindu citing Chinese media (not Nepal official)
+China_TAR_missing_reported,500,people (more than),2026-09-20,The Hindu citing Chinese media
+Housing_livelihood_grant_NPR,"NPR 15,000/month per family (up to 4 members) + NPR 2,000 per extra member, max 6 months",Not reported,2026-09-20,NDRRMA
+Data_status,"Provisional - search, identification and damage assessment ongoing",Not reported,2026-09-21,Compiled for POC

@@ -1,0 +1,10 @@
+country,district,province,deaths_recovered,share_of_national_pct,notes,rdna_people_affected,rdna_households_affected,rdna_houses_damaged,rdna_share_buildings_pct,lat,lon
+Nepal,Chitwan,Bagmati,367,25.29,Highest recovery count; downstream Narayani stretch,514,114,100,1.3,27.53,84.35
+Nepal,Rasuwa,Bagmati,236,16.26,"Entry point / upper catchment (Rasuwagadhi, Timure, Syabrubesi)",7633,1923,1779,23.5,28.12,85.30
+Nepal,Nawalparasi East,Gandaki,232,15.99,Downstream recovery,,,,,27.67,84.14
+Nepal,Nawalparasi West,Lumbini,222,15.3,Downstream recovery,,,,,27.55,83.68
+Nepal,Nuwakot,Bagmati,203,13.99,Heavy settlement and building damage,17082,4418,3977,52.5,27.91,85.17
+Nepal,Gorkha,Gandaki,79,5.44,Trishuli corridor,1096,274,263,3.5,28.00,84.63
+Nepal,Dhading,Bagmati,72,4.96,Trishuli corridor,6638,1588,1451,19.2,27.87,84.93
+Nepal,Tanahun,Gandaki,38,2.62,Also spelled Tanahu,,,,,27.95,84.25
+Nepal,Kathmandu,Bagmati,2,0.14,Died in hospital while under treatment,,,,,27.72,85.32

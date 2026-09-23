@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Nepal Flood 2026 — District report</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header class="hero">
+      <p class="kicker">August–September 2026 · Lhende / Bhotekoshi–Trishuli</p>
+      <h1>Nepal flood situation report</h1>
+      <p class="lede">
+        Recovered deaths and RDNA impact by district. Figures are provisional.
+        Data loads from <code>flood_data_filtered.csv</code> in this bucket.
+      </p>
+    </header>
+
+    <section class="controls">
+      <label>
+        Province
+        <select id="provinceFilter">
+          <option value="All">All</option>
+        </select>
+      </label>
+      <label>
+        Minimum recovered deaths
+        <input id="minDeaths" type="range" min="0" max="400" value="0" />
+        <span id="minDeathsLabel">0</span>
+      </label>
+      <label class="search">
+        Search district
+        <input id="search" type="search" placeholder="e.g. Rasuwa" />
+      </label>
+    </section>
+
+    <section id="metrics" class="metrics" aria-live="polite"></section>
+
+    <section class="charts">
+      <article class="panel">
+        <h2>Recovered bodies by district</h2>
+        <p class="caption">Nepal Police recoveries · 20 Sep 2026</p>
+        <div class="chart-box">
+          <canvas id="deathsChart"></canvas>
+        </div>
+      </article>
+      <article class="panel">
+        <h2>RDNA houses damaged</h2>
+        <p class="caption">Blank districts were outside the five-district RDNA caseload</p>
+        <div class="chart-box">
+          <canvas id="housesChart"></canvas>
+        </div>
+      </article>
+    </section>
+
+    <section class="panel">
+      <h2>District impact map</h2>
+      <p class="caption">Marker size follows recovered deaths</p>
+      <div id="map"></div>
+    </section>
+
+    <section class="panel">
+      <h2>Filtered table</h2>
+      <div class="table-wrap">
+        <table id="dataTable">
+          <thead></thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </section>
+
+    <footer>
+      Compiled from NDRRMA / Nepal Police / RDNA district tables. Not an official
+      live feed.
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>
